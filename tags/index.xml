@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Awesome Identity for Hugo</title>
+    <title>Tags on Byungjin Park - Software Architect / Hacker</title>
     <link>https://filipealex.github.io/tags/</link>
-    <description>Recent content in Tags on Awesome Identity for Hugo</description>
+    <description>Recent content in Tags on Byungjin Park - Software Architect / Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
     
 	<atom:link href="https://filipealex.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
